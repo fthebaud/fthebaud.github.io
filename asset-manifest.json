@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7885f50f.chunk.css",
-    "main.js": "/static/js/main.673cddf0.chunk.js",
-    "main.js.map": "/static/js/main.673cddf0.chunk.js.map",
+    "main.css": "/static/css/main.db9dc591.chunk.css",
+    "main.js": "/static/js/main.3deb4568.chunk.js",
+    "main.js.map": "/static/js/main.3deb4568.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.71fa31f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.71fa31f9.js.map",
     "static/js/2.d5eaebc5.chunk.js": "/static/js/2.d5eaebc5.chunk.js",
     "static/js/2.d5eaebc5.chunk.js.map": "/static/js/2.d5eaebc5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7885f50f.chunk.css.map": "/static/css/main.7885f50f.chunk.css.map",
+    "static/css/main.db9dc591.chunk.css.map": "/static/css/main.db9dc591.chunk.css.map",
     "static/js/2.d5eaebc5.chunk.js.LICENSE.txt": "/static/js/2.d5eaebc5.chunk.js.LICENSE.txt",
     "static/media/01.ae0bc142.jpg": "/static/media/01.ae0bc142.jpg",
-    "static/media/02.76b05a06.jpg": "/static/media/02.76b05a06.jpg",
-    "static/media/03.12b4e512.jpg": "/static/media/03.12b4e512.jpg",
-    "static/media/04.3b25dc4c.jpg": "/static/media/04.3b25dc4c.jpg",
-    "static/media/05.e4b1a8ef.jpg": "/static/media/05.e4b1a8ef.jpg",
-    "static/media/06.fa85fbfd.jpg": "/static/media/06.fa85fbfd.jpg",
+    "static/media/02.12b4e512.jpg": "/static/media/02.12b4e512.jpg",
+    "static/media/03.e4b1a8ef.jpg": "/static/media/03.e4b1a8ef.jpg",
+    "static/media/04.fa85fbfd.jpg": "/static/media/04.fa85fbfd.jpg",
     "static/media/gift.070193a8.gif": "/static/media/gift.070193a8.gif",
-    "static/media/map.ebcc8fdc.png": "/static/media/map.ebcc8fdc.png",
+    "static/media/map.651e5f72.png": "/static/media/map.651e5f72.png",
     "static/media/santa-run.22594f7f.gif": "/static/media/santa-run.22594f7f.gif",
     "static/media/santa-wave.7c625707.gif": "/static/media/santa-wave.7c625707.gif",
     "static/media/swipe-left.552b7a35.gif": "/static/media/swipe-left.552b7a35.gif"
@@ -25,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.71fa31f9.js",
     "static/js/2.d5eaebc5.chunk.js",
-    "static/css/main.7885f50f.chunk.css",
-    "static/js/main.673cddf0.chunk.js"
+    "static/css/main.db9dc591.chunk.css",
+    "static/js/main.3deb4568.chunk.js"
   ]
 }
